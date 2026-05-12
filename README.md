@@ -134,11 +134,11 @@ Here are some screenshots of the application in action:
 
 | Main window | JSON preview modal |
 |-------------|--------------------|
-| ![Main Window](screenshots/main_window.png) | ![JSON Preview](screenshots/dialog_view_json.png) |
+| ![Main Window](screenshots/main_window.PNG) | ![JSON Preview](screenshots/dialog_view_json.PNG) |
 
 | Help modal (multi‑tab) | About modal |
 |------------------------|--------------|
-| ![Help View](screenshots/dialog_help_view.png) | ![About View](screenshots/dialog_about_view.png) |
+| ![Help View](screenshots/dialog_help_view.PNG) | ![About View](screenshots/dialog_about_view.PNG) |
 
 > **Tip:** The actual screenshots will be available once you run the app and capture your own – or they can be placed in the `screenshots/` folder.
 
