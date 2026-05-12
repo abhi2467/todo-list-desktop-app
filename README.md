@@ -3,7 +3,7 @@
 A modern, feature‑rich task management application built with **Python** and **CustomTkinter**.  
 Keep track of your tasks, set priorities, export/import data via JSON, and enjoy a clean user interface with real‑time statistics.
 
-![Main Window](screenshots/main_window.png)  
+![Main Window](screenshots/main_window.PNG)  
 *Main application window with task list, statistics, filters and file management.*
 
 ---
