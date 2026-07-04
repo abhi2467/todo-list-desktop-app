@@ -85,7 +85,7 @@ All required packages are listed in `requirements.txt`.
 ### 1. Clone or download the project
 
 ```bash
-git clone https://github.com/your-username/todo-list-app.git
+git clone https://github.com/abhi2467/todo-list-app.git
 cd todo-list-app
 ```
 
